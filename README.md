@@ -43,4 +43,5 @@ Categorical variables can be divided into two categories:<br>
 2. https://medium.com/swlh/an-introduction-to-categorical-feature-encoding-in-machine-learning-cd0ca08c8232
 3. https://towardsdatascience.com/benchmarking-categorical-encoders-9c322bd77ee8
 4. https://towardsdatascience.com/all-about-categorical-variable-encoding-305f3361fd02
+5. https://towardsdatascience.com/an-easier-way-to-encode-categorical-features-d840ff6b3900
 
