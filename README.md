@@ -29,6 +29,8 @@ Categorical variables can be divided into two categories:<br>
 16. Backward Difference Encoding
 17. Polynomial Encoding
 
-# We are gonna use following libraries to perform encoding.
+# Following libraries are used to perform encoding.
 !pip install scikit-learn <br>
 !pip install category-encoders <br>
+
+
