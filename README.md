@@ -33,4 +33,7 @@ Categorical variables can be divided into two categories:<br>
 !pip install scikit-learn <br>
 !pip install category-encoders <br>
 
+Below cheat-sheet as a guiding tool.<br><br>
+<img src="Screenshots/Categorical_Encoding.png">
+
 
