@@ -30,5 +30,5 @@ Categorical variables can be divided into two categories:<br>
 17. Polynomial Encoding
 
 # We are gonna use following libraries to perform encoding.
-!pip install scikit-learn
-!pip install category-encoders
+!pip install scikit-learn <br>
+!pip install category-encoders <br>
