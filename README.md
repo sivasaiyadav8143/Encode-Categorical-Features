@@ -28,6 +28,7 @@ Categorical variables can be divided into two categories:<br>
 15. Hashing Encoding
 16. Backward Difference Encoding
 17. Polynomial Encoding
+18. MultiLabelBinarizer
 
 # Following libraries are used to perform encoding.
 !pip install scikit-learn <br>
